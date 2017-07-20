@@ -68,18 +68,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Fnz.Controller\Fnz.Controller.csproj">
-      <Project>{ee2d3ee1-39f5-493c-b851-f9fbc90e9e9b}</Project>
-      <Name>Fnz.Controller</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Fnz.Model\Fnz.Model.csproj">
-      <Project>{61200dd8-c7d5-4075-a435-b55e502d5afa}</Project>
-      <Name>Fnz.Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Fnz.View\Fnz.View.csproj">
-      <Project>{68ff63e5-71d5-48f2-9d19-d8b5037be01d}</Project>
-      <Name>Fnz.View</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Fnz.WebServer\Fnz.WebServer.csproj">
       <Project>{afb013c0-b03f-48fb-8ea4-a64e7c5016c5}</Project>
       <Name>Fnz.WebServer</Name>

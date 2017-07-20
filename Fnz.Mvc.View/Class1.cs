@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fnz.Controller
+namespace Fnz.Mvc.View
 {
     public class Class1
     {

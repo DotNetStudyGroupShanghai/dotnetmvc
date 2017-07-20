@@ -2,7 +2,7 @@
 using System.Linq;
 using Xunit;
 
-namespace Fnz.Controller.UnitTest
+namespace Fnz.Mvc.Model.UnitTest
 {
     public class UnitTest1
     {

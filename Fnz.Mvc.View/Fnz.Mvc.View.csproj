@@ -7,8 +7,8 @@
     <ProjectGuid>{68FF63E5-71D5-48F2-9D19-D8B5037BE01D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Fnz.View</RootNamespace>
-    <AssemblyName>Fnz.View</AssemblyName>
+    <RootNamespace>Fnz.Mvc.View</RootNamespace>
+    <AssemblyName>Fnz.Mvc.View</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
